@@ -1,13 +1,13 @@
 ---
-title: "未経験向けDocker基礎解説"
+title: 未経験向けDocker基礎解説
 tags:
-  - 'Docker'
-  - '未経験エンジニア'
-  - 'プログラミング'
-  - '生成AI'
+  - プログラミング
+  - Docker
+  - 未経験エンジニア
+  - 生成AI
 private: true
-updated_at: ''
-id: null
+updated_at: '2026-06-11T15:58:05+09:00'
+id: 52f2d6185f1e0c21a6b7
 organization_url_name: null
 slide: false
 ignorePublish: false
