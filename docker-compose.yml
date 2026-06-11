@@ -1,0 +1,16 @@
+services:
+  node:
+    image: node:latest
+    container_name: node-dev
+    working_dir: /app
+    volumes:
+      - D:/qiita-contents:/app
+    ports:
+      - "8888:8888"
+    command: tail -f /dev/null
+
+# 実行コマンド
+# docker compose up -d
+# docker exec -it qiita-cli bash
+# npm install @qiita/qiita-cli --save-dev
+# npx qiita init
