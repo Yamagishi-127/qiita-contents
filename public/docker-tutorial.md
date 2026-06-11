@@ -12,7 +12,7 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-:::info
+:::note info
 本記事はDocker公式ドキュメントを参考にしつつ、
 ChatGPTを利用して構成検討および文章作成を行いました。
 内容については筆者が確認・修正しています。
