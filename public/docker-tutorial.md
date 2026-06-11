@@ -5,7 +5,7 @@ tags:
   - Docker
   - 未経験エンジニア
   - 生成AI
-private: true
+private: false
 updated_at: '2026-06-11T17:08:47+09:00'
 id: 52f2d6185f1e0c21a6b7
 organization_url_name: null
@@ -31,7 +31,7 @@ ChatGPTを利用して構成検討および文章作成を行いました。
 Dockerが登場する以前は、開発手順書を整備することで環境差異を解消しようとしていた。
 例えば、次のような手順書が配布されることがある。
 
-1. [Java 17](https://openjdk.org/projects/jdk/17/)をインストールする
+1. [Java](https://openjdk.org/install/)をインストールする
 1. [Maven](https://maven.apache.org/)をインストールする
 1. [PostgreSQL](https://www.postgresql.org/download/)をインストールする
 1. 設定ファイルを配置する
@@ -407,7 +407,8 @@ Dockerに関する多くの問題は、これらの考え方を基準に整理�
 # 参考文献
 
 - [Docker公式ドキュメント](https://docs.docker.com/get-started)
-- [Java 17](https://openjdk.org/projects/jdk/17/)
+- [Java](https://openjdk.org/install/)
 - [Maven](https://maven.apache.org/)
-- [PostgreSQL](https://www.postgresql.org/download/)
+- [PostgreSQL ダウンロードページ](https://www.postgresql.org/download/)
 - [Docker Hub](https://www.docker.com/ja-jp/products/docker-hub/)
+- [Mermaid(図の作成)](https://mermaid.ai/open-source/syntax/flowchart.html)
